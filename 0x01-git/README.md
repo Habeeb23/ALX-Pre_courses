@@ -1,3 +1,3 @@
 Alx School
-This is my time. ican learn
+This is my time. can learn
 
